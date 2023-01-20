@@ -81,7 +81,7 @@ Contact: support@ducksms.com
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
       <ProjectReference Include="..\Org.Ducksms\Org.Ducksms.csproj">
-          <Project>{97ECACE2-F600-4F3C-A4A6-2948D4A7C706}</Project>
+          <Project>{672D1AEF-A910-4C8F-8AD6-AD924F3094D6}</Project>
           <Name>Org.Ducksms</Name>
       </ProjectReference>
   </ItemGroup>

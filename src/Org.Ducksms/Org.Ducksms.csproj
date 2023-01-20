@@ -12,7 +12,7 @@ Contact: support@ducksms.com
     
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{97ECACE2-F600-4F3C-A4A6-2948D4A7C706}</ProjectGuid>
+    <ProjectGuid>{672D1AEF-A910-4C8F-8AD6-AD924F3094D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Org.Ducksms</RootNamespace>
